@@ -1,4 +1,4 @@
-package com.priyatosh.composecalculator.ui.theme
+package com.priyatosh.composecalculator
 
 import com.priyatosh.composecalculator.CalculatorOperation
 

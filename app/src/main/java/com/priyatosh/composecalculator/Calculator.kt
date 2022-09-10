@@ -12,7 +12,6 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.priyatosh.composecalculator.ui.theme.CalculatorState
 import com.priyatosh.composecalculator.ui.theme.LightGray
 import com.priyatosh.composecalculator.ui.theme.Orange
 
